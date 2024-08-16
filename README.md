@@ -2,5 +2,5 @@
 
 This repository contains scripts to setup a base structure for an Express JS project
 
--powershell script
+-powershell script\n
 -bash script (soon)
